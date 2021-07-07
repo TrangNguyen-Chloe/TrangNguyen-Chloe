@@ -8,3 +8,5 @@
 * Linkedin: https://www.linkedin.com/in/trangnguyen-chloe/
 * e-mail: trangnguyen.chloe@gmail.com
 
+![TrangNguyen-Chloe](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
