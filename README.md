@@ -6,4 +6,5 @@
 
 ## Get in touch
 * Linkedin: https://www.linkedin.com/in/trangnguyen-chloe/
+* e-mail: trangnguyen.chloe@gmail.com
 
